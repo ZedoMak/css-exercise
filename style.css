@@ -1,12 +1,8 @@
-.click-me {
-  background-color: black;
-  color: white;
+.avatar.proportioned {
+  height: auto;
+  width: 300px;
 }
-.no-click-me {
-  background-color: yellow;
-}
-.click-me,
-.no-click-me {
-  font-size: 28px;
-  font-family: helvetica, "times new roman", sans-serif;
+.avatar.distorted {
+  height: 400px;
+  width: 200px;
 }
